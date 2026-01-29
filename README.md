@@ -136,9 +136,6 @@ GitHub
 
 🎥 Project Demo
 
-🔗 Project Video:
-https://youtu.be/Iyj7sOfwYLw
-
 🔗 Flame Sensor Library:
 https://www.mediafire.com/file/cnrdckfrdxun270/Flame-Sensor-Library-For-Proteus-main.zip/file
 
